@@ -1,6 +1,6 @@
 """
     Task no: Task 12
-    Description: A program thats joins 2 string thne display the string plus the lenght
+    Description: A program thats joins 2 string the display the string plus the lenght
     Return: no return 
 """
 
